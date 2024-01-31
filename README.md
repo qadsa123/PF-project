@@ -11,5 +11,4 @@ The size of the grid varies but is most commonly 8×8, 10×10 or 12×12 squares.
 <br>• The game contains a 10x10 board size that appeared on the console.
 <br>• Board contains at least five ladders to climb up and five snakes to bite down. Suppose if the player is on S (snake) index which is the 50th index on board then its updates position may be down to the 10th index and if the player is on L (ladder) index which is the 40th index on board than its updated position may be upon 70th index.
 
-<br>
-![Screenshot 2024-01-31 214004](https://github.com/qadsa123/PF-project/assets/93070187/0262f685-36e1-4c2b-8a82-e830fa0a17e4)
+

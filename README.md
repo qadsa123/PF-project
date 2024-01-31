@@ -1,6 +1,6 @@
 
 # PF-project
-
+PF project using c++
 <h1>Introduction</h1>
 Snakes and Ladders, known originally as Moksha Patam, is an ancient Indian board game for two or more players regarded today as a worldwide classic. It is played on a game board with numbered, gridded squares. Several "ladders" and "snakes" are pictured on the board, each connecting two specific board squares. The object of the game is to navigate one's game piece, according to die rolls, from the start (bottom square) to the finish (Top Square), helped by climbing ladders but hindered by falling down snakes.
 The size of the grid varies but is most commonly 8×8, 10×10 or 12×12 squares. Boards have snakes and ladders starting and ending on different squares; both factors affect the duration of play. Each player is represented by a distinct game piece token. A single die is rolled to determine the random movement of a player's token in the traditional form of play; two dice may be used for a shorter game
